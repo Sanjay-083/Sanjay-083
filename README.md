@@ -24,6 +24,7 @@ A passionate engineer working on **VLSI, Embedded Systems, IoT solutions, and PC
 ## **💻 Languages and Tools:**  
 **Programming & Hardware Description:** Python, C, MATLAB, Verilog  
 **Hardware & Embedded:** Arduino, ESP32, Raspberry Pi
+
 **PCB Design & Simulation:** KiCad, Proteus  
 **Development Platforms:** Linux, HTML, CSS  
 
