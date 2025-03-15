@@ -17,7 +17,7 @@ A passionate engineer working on **VLSI, Embedded Systems, IoT solutions, and PC
 ---
 
 ## **🌐 Connect with Me**  
-🔗 **LinkedIn:** [www.linkedin.com/in/sanjay083](www.linkedin.com/in/sanjay083)  
+🔗 **LinkedIn:** [www.linkedin.com/in/sanjay083]([https://www.linkedin.com/in/sanjay-m-abb0a5258/])
 
 ---
 
